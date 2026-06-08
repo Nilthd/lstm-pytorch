@@ -1,4 +1,4 @@
-# LSTM from Scratch — PyTorch
+# LSTM from Scratch using PyTorch
 
 A clean implementation of a **Long Short-Term Memory (LSTM)** network built manually in PyTorch, without using `nn.LSTM`, to demonstrate a deep understanding of how the gates work internally.
 
